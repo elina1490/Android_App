@@ -1,0 +1,114 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_33 (Sun Microsystems Inc.)
+
+Name: res/anim/slide_v_enter_reverse.xml
+SHA1-Digest: o6y8sVtIX+U/IVLmssNNO0HLJhM=
+
+Name: assets/kataraktes8.jpg
+SHA1-Digest: sM4tbv5w6B2mJEuoP9l8FejEAZQ=
+
+Name: res/anim/slide_exit.xml
+SHA1-Digest: ZX/raIXCvGGzgu+fvnYbcbkwl5o=
+
+Name: assets/602769_10151212404341905_1160810222_n.jpg
+SHA1-Digest: b7+GOioHaPPuiNgSuu4n093XRzE=
+
+Name: assets/2225_3.jpg
+SHA1-Digest: 4dgxecoCtzAREZ9JlglKDNvi30g=
+
+Name: assets/cyclades_restaurant_001p.jpg
+SHA1-Digest: X7Wr3ZFapYDaS7A8qNOciuRwn24=
+
+Name: res/anim/slide_enter_reverse.xml
+SHA1-Digest: G+o6PF81lzJHZGjIIUdM6ZH67RI=
+
+Name: assets/buildings.PNG
+SHA1-Digest: WYTLm2dFy4tlu5jsm9MGuSg5kXY=
+
+Name: resources.arsc
+SHA1-Digest: nPEFPEEGI9JPk9sSoBmrsnmFzj0=
+
+Name: assets/lib_samou(1).JPG
+SHA1-Digest: VhYA+ZYQQhLoKbjN4i5JxGk8wJo=
+
+Name: res/anim/slide_enter.xml
+SHA1-Digest: Zq8vc9Y86WEOwIHvd2vvnF5LAjU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: YMjwn9fJjEvK+Uq2V4IHbKILQak=
+
+Name: assets/Capture.PNG
+SHA1-Digest: t0A8F8yHtpJdNfsGKjL5Az6C5uw=
+
+Name: res/anim/fadeout.xml
+SHA1-Digest: 1RFOJzpf/Tnrt6Cz+YXKri/dcQs=
+
+Name: assets/bee.mp3
+SHA1-Digest: ihSxiKisMCCeLH3rvHqhcr/wZHo=
+
+Name: res/anim/hold.xml
+SHA1-Digest: GKBZZAVQp1UHWpdLvgRKYsaN968=
+
+Name: assets/kjvfuy.jpg
+SHA1-Digest: p272vMQhuZVZTbiDrj/GDPpaPEI=
+
+Name: res/anim/zoom_enter.xml
+SHA1-Digest: AI9U9jd8y+rlzUpfZu9q4VZpvP0=
+
+Name: res/drawable/ya.png
+SHA1-Digest: RRmkx8OEWWD1Yp0KeGnc39PeL5M=
+
+Name: res/anim/slide_v_exit_reverse.xml
+SHA1-Digest: BmxIVohKX0sSkZa5gB/EAfFftlU=
+
+Name: res/anim/fadein.xml
+SHA1-Digest: xsEvJd6+HxCGf8W9bRNyDJagnZ0=
+
+Name: res/anim/zoom_enter_reverse.xml
+SHA1-Digest: kvKMcrPGTjRGBwIpiaKwUQ4F/bY=
+
+Name: classes.dex
+SHA1-Digest: LbIlEIwmluDzAsXXo3u6L6Ce9to=
+
+Name: res/anim/zoom_exit.xml
+SHA1-Digest: ioBRfr3sxqvTP2Dsfg9bfrBu5NA=
+
+Name: assets/jhfytf.jpg
+SHA1-Digest: iXrp/mF4wPtITT34wJVbfI4pCkw=
+
+Name: assets/lib_samou.JPG
+SHA1-Digest: k8Ues8eGOs/ZOoZtKb63F1BK7Ow=
+
+Name: res/anim/slide_exit_reverse.xml
+SHA1-Digest: VE6Oh3BHy1caiImNmGoeHwMHt/I=
+
+Name: res/anim/slide_v_exit.xml
+SHA1-Digest: 9lXf30b08R2I7vWxAXL3x4EnFZU=
+
+Name: res/anim/slide_v_enter.xml
+SHA1-Digest: VwO+DjHaulKaPlqfDFwicM7taAM=
+
+Name: assets/egglondon1.jpg
+SHA1-Digest: ukxovEZ+KM3x2+Pgd69e6MKKXdQ=
+
+Name: assets/mhvgv.jpg
+SHA1-Digest: ohq3SJFhogVGXKpe0j0wxgTeykA=
+
+Name: assets/BuldingsUniversityLemonis.jpeg
+SHA1-Digest: yTW5CM9ibYbeTQd6I3sVSJObOw4=
+
+Name: assets/t.jpeg
+SHA1-Digest: yTW5CM9ibYbeTQd6I3sVSJObOw4=
+
+Name: assets/1_03-HoriaKarlovasiAgNikolaosPotami.jpg
+SHA1-Digest: 7a5If3RwHQZTpfkkFN12bEVsUZE=
+
+Name: res/anim/zoom_exit_reverse.xml
+SHA1-Digest: kzP0svpVXrshXRVnbxlRXjrmKZo=
+
+Name: assets/28059_352221144874203_1845029871_n.jpg
+SHA1-Digest: PQOBU/+VBvvI4ped3aa13rSFNyk=
+
+Name: assets/13699790.jpg
+SHA1-Digest: vy4IABeqg7HinxftpXTiyQXyDr0=
+
